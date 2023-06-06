@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+}
+.note
+{
+    font-size: 15px;
+    color: rgb(113, 47, 9);
+    font-family: 'Playfair Display', serif;
+}
+
+.song_name{
+    font-size: 20px;
+}
+canvas{
+    background-color: #f7f7f7;
+    border: 5px solid #73cfd8;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #73cfd8;
+}
